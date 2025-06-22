@@ -28,4 +28,4 @@ Montrer mes compétences pratiques en :
 📍 Montréal, QC  
 🎓 Étudiant MSc Intelligence d'affaires – HEC Montréal  
 📧 kareem.bamba@hec.ca  
-🔗 [LinkedIn]([https://www.linkedin.com/in/tonprofil/](https://www.linkedin.com/in/kareem-bamba-9284a0211/))
+🔗 [LinkedIn]([https://www.linkedin.com/in/kareem-bamba-9284a0211/])
